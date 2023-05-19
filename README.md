@@ -12,3 +12,5 @@ Making classic game Pong in VHDL
 - Zedboard
 - Pmod JSTK2: Two-axis Joystick
 - Vibration Motor Module
+
+[Demo Video](https://youtu.be/tG7PvMlhzWg)
