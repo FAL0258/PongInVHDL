@@ -6,7 +6,7 @@ Making classic game Pong in VHDL
 - Enhanced AI Mode with Dynamic Difficulties
 - Frenzy Mode
   - Allows moving horizontally
-  - Special effect items can be picked up
+  - Special effect items can be picked up (Only in Player VS Player Mode)
 
 # Hardware
 - Zedboard
